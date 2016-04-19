@@ -12,6 +12,7 @@ Here are my own personal cheat sheets. I've organized some into their own pages,
 * [Docker](/cheat-sheets/docker/)
 * [Node Package Manager (NPM)](/cheat-sheets/npm/)
 * [Linux](/cheat-sheets/linux/)
+* [Mac OS X Keyboard shortcuts](/cheat-sheets/mac-osx/)
 
 ## ActiveRecord
 
